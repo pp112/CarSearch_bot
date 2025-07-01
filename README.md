@@ -27,7 +27,7 @@
 ### 1. Клонируйте репозиторий
 ```bash
 git clone https://github.com/pp112/CarSearch_bot.git
-cd carsearch
+cd CarSearch_bot
 ```
 
 ### 2. Создайте и активируйте виртуальное окружение
