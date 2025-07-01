@@ -1,0 +1,6 @@
+/.venv/
+**/__pycache__/
+/config/.env
+/images/
+/database/cars_database.db
+*.log
